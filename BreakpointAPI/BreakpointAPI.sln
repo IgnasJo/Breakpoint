@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Breakpoint", "Breakpoint\Breakpoint.csproj", "{A810B428-C47E-4F6E-A5F8-06599C38230E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreakpointAPI", "BreakpointAPI\BreakpointAPI.csproj", "{ACF71439-76C2-41A5-B596-FD0EFBD06109}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A810B428-C47E-4F6E-A5F8-06599C38230E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A810B428-C47E-4F6E-A5F8-06599C38230E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A810B428-C47E-4F6E-A5F8-06599C38230E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A810B428-C47E-4F6E-A5F8-06599C38230E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACF71439-76C2-41A5-B596-FD0EFBD06109}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACF71439-76C2-41A5-B596-FD0EFBD06109}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACF71439-76C2-41A5-B596-FD0EFBD06109}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACF71439-76C2-41A5-B596-FD0EFBD06109}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {DEF0B217-3B6D-44D8-8851-8D717C63EC01}
+		SolutionGuid = {555B8CCE-0151-4FEF-8A81-A301951E8128}
 	EndGlobalSection
 EndGlobal
